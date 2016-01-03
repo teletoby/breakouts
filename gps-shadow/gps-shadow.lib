@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# LED-RESCUE-adapters
+# LED-RESCUE-fxos
 #
-DEF LED-RESCUE-adapters D 0 40 Y N 1 F N
+DEF LED-RESCUE-fxos D 0 40 Y N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "LED-RESCUE-adapters" 0 -100 50 H V C CNN
+F1 "LED-RESCUE-fxos" 0 -100 50 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
